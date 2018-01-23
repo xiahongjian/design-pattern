@@ -1,0 +1,5 @@
+<?xml version="1.0"?>  
+<config>  
+	<logger-factory>FileLoggerFactory</logger-factory>
+    <skin-factory>SpringSkinFactory</skin-factory>  
+</config>  
